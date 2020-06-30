@@ -65,8 +65,10 @@ body{
     flex-direction: column;
     flex: 1; }
 
-
-
+.Check {
+  text-decoration: line-through;
+ }
+ 
 
 .App-logo {
   height: 40vmin;
